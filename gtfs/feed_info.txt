@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,default_lang,feed_start_date,feed_end_date,feed_version,feed_contact_url
+Community (based on mzt.mk public timetable),https://github.com/deryclem/gtfs-north-macedonia,mk,en,20251214,20261212,20251214,https://github.com/deryclem/gtfs-north-macedonia/issues

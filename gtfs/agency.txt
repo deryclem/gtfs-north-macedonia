@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone
+MZT,Македонски Железници Транспорт АД Скопје,https://www.mzt.mk,Europe/Skopje,mk,+389 2 3164 255
