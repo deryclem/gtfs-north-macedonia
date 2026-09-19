@@ -41,7 +41,7 @@ This feed includes 13 GTFS files built according to MobilityData best practices:
 - **Fares (`fare_attributes.txt`, `fare_rules.txt`)**: Official flat fares configured for *Gradski Voz* suburban lines (40 MKD one-way / 70 MKD round-trip).
 - **Transfers (`transfers.txt`)**: Minimum interchange connection times defined at Skopje Central, Veles, and Zelenikovo.
 - **Multilingual (`translations.txt`)**: Full Macedonian (Cyrillic) and English translations for stops, routes, and agency metadata.
-- **Quality Assurance**: Validated with [MobilityData GTFS Validator v4.2.0](https://github.com/MobilityData/gtfs-validator) (0 errors).
+- **Quality Assurance**: Validated with [MobilityData GTFS Validator v8.0.1](https://github.com/MobilityData/gtfs-validator) (0 errors).
 
 ---
 
