@@ -1,0 +1,3 @@
+fare_id,price,currency_type,payment_method,transfers,agency_id
+fare_gv_single,40.00,MKD,0,0,MZT
+fare_gv_return,70.00,MKD,0,0,MZT

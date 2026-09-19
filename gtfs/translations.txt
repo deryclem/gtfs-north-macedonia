@@ -1,4 +1,4 @@
-table_name,field_name,language,translation,record_id,record_sub_id,tts_translation
+table_name,field_name,language,translation,record_id,record_sub_id,field_value
 stops,stop_name,en,Skopje,SKP,,
 stops,stop_name,en,Lisiče,LSC,,
 stops,stop_name,en,Dračevo,DRC,,
@@ -106,4 +106,5 @@ routes,route_long_name,en,Skopje – Kumanovo,R1,,
 routes,route_long_name,en,Skopje – Veles,R2,,
 routes,route_long_name,en,Skopje – Gevgelija,R3,,
 routes,route_long_name,en,Skopje – Bitola,R4,,
+routes,route_long_name,en,Skopje – Zelenikovo,R5,,
 agency,agency_name,en,North Macedonia Railways Transport JSC Skopje,MZT,,

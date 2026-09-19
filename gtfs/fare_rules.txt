@@ -1,0 +1,3 @@
+fare_id,route_id
+fare_gv_single,R5
+fare_gv_return,R5

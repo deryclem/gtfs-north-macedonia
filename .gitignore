@@ -1,0 +1,6 @@
+gtfs-validator-*.jar
+validation_output/
+sources_out/
+.DS_Store
+*/.DS_Store
+.claude/
