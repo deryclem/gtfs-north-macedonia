@@ -1,7 +1,7 @@
 # gtfs-north-macedonia
 
 [![GTFS Validator](https://img.shields.io/badge/MobilityData%20Validator-0%20errors-brightgreen)](https://github.com/MobilityData/gtfs-validator)
-[![Timetable Validity](https://img.shields.io/badge/Timetable-01.09.2026%20--%2012.12.2026-blue)](https://mzi.mk)
+[![Timetable Validity](https://img.shields.io/badge/Timetable-01.09.2026%20--%2011.12.2027-blue)](https://mzi.mk)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 Official [GTFS](https://gtfs.org) schedule feed for **MŽT** (Македонски Железници Транспорт АД Скопје), North Macedonia's national railway operator.
@@ -14,7 +14,7 @@ This feed also feeds into [Panto](https://getpanto.app), a real-time train track
 
 ## 🚆 Network & Active Services
 
-**Validity**: 1 September 2026 - 12 December 2026 · **5 routes** · **34 trains/day** · **103 stops**
+**Validity**: 1 September 2026 - 11 December 2027 · **5 routes** · **34 trains/day** · **103 stops**
 
 | Route | Cyrillic | Train Numbers | Frequency |
 |---|---|---|---|
@@ -24,10 +24,12 @@ This feed also feeds into [Panto](https://getpanto.app), a real-time train track
 | **Skopje ↔ Bitola / Žabeni** | Скопје ↔ Битола / Жабени | 640, 641, 642, 643, 644, 645 | Daily (3 round trips, train 642 fully restored) |
 | **Skopje ↔ Zelenikovo (Gradski Voz)** | Скопје ↔ Зелениково (Градски воз) | 3080-3089, 3180-3185 | Daily (8 round trips / 16 trains) |
 
+> **Validity note:** the official extracts from MŽI cover 1 September - 12 December 2026 only. The validity of the 2026/2027 timetable (13 December 2026 to 11 December 2027) is confirmed by the MŽI [Network Statement 2027](https://mzi.mk/download/%d0%be%d0%b1%d1%98%d0%b0%d0%b2%d0%b0-%d0%bd%d0%b0-%d0%bc%d1%80%d0%b5%d0%b6%d0%b0-2027/). For that period the feed repeats the same timetable, as MŽI's draft timetable 2026-2027 (*Проект возен ред 2026-2027*) matches the current one for all intercity and regional trains. It will be updated when MŽI publishes the final extract. The *Gradski Voz* (3080-3185) is not in the draft (published before its launch), so its continuation after 12 December 2026 is assumed.
+
 > **Suspended services (not included in feed):**
 > - Skopje ↔ Kičevo (trains 660, 661): suspended by operator.
 > - Veles ↔ Kočani (train 651): suspended by operator.
-> - Trains 2081/2082: replaced by the *Gradski Voz* commuter rail schedules.
+> - Trains 2081/2082: cancelled by MŽT from 7 August 2026 until 12 December 2026 (notice no. 20/1-128/2). They still appear in the draft 2026-2027 timetable, so their return after that date is unknown.
 
 ---
 
